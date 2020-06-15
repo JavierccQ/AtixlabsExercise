@@ -19,7 +19,7 @@ const SectionOne = () => {
           </button>
         </div>
         <div className="col-md-6 col-sm-12 sectionOneRight">
-          <div className="contentImg">
+          <div >
             <img src={CreditCardTop} alt="CreditCardTop" />
           </div>
         </div>

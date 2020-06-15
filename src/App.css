@@ -10,14 +10,15 @@ h1,h2,h3,h4,h5,p{
   padding: 0;
 }
 
+
 @font-face {
   font-family: 'Asap';
-  src: local('./assets/Fonts/asap-regular.ttf'), format('ttf');
+  src: local('Asap'), url(./assets/Fonts/asap-regular.ttf) format('woff');
 }
 
 *{
 
-  font-family: "Asap";
+  font-family: 'Asap';
 }
 
 .allsectionp{
