@@ -54,6 +54,18 @@
     font-size: small;
 
   }
+
+  .iconsBottom {    
+    height: 20px;
+    margin-right: 12px;
+
+  }
+
+  .inline{
+    display: inline;
+  }
+
+  
   
     
   @media screen and (max-width: 768px) {
