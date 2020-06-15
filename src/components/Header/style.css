@@ -1,0 +1,41 @@
+.Navbar {
+  background: rgb(34, 183, 150);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 183, 150, 1) 0%,
+    rgba(21, 144, 159, 1) 50%
+  );
+  
+}
+
+.NavTextColor{
+    color: white !important;
+}
+
+.NavTextMarg li{
+    padding-left: 20px;
+}
+
+.brandMarg{
+    font-size: xx-large;
+    padding-left: 70px;
+    
+}
+
+.firstBtn{
+
+    border-radius: 30px;
+    color: white;
+    background-color: rgba(70, 172, 177, 1);
+    margin-right: 20px;
+    width: 110px;
+}
+
+.secondBtn{
+
+    border-radius: 30px;
+    color:  rgba(21, 144, 159, 1);
+    background-color: white;
+    margin-right: 100px;
+    width: 110px;
+}

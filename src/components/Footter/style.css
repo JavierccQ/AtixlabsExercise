@@ -1,0 +1,65 @@
+.Footter{
+
+    background-color:rgb(252, 252, 252);
+    
+    justify-content: center;
+    
+  }
+
+  h5{
+      padding: 20px;
+      font-weight: bold;
+      color: black;
+  }
+
+  a{
+      padding-bottom: 20px;
+      color: rgb(184, 192, 200);
+  }
+  
+  .FootterLeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;    
+    background-color:rgb(252, 252, 252);
+    height: 300px;
+  
+  }
+  
+  
+  
+  .FootterLeft button{
+    border-radius: 30px;
+    color:white;
+    background-color: teal;
+    max-width: 300px;
+    
+  }
+
+  .buttonUnique button{
+    border-radius: 30px;
+    color:white;   
+    max-width: 300px;
+    
+  }
+
+  .logostyle{
+    display: inline;
+    padding-left: 100px;
+  }
+
+  .TmMsg{
+    display: inline;
+    font-size: small;
+
+  }
+  
+    
+  @media screen and (max-width: 768px) {
+    .FootterLeft{
+  
+      padding: 25px 50px;
+    }
+  
+  }
